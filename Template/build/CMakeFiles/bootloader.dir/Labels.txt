@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/yikunhao/Desktop/WS2425/Praktikum_IoT/Template/build/CMakeFiles/bootloader
+/Users/yikunhao/Desktop/WS2425/Praktikum_IoT/Template/build/CMakeFiles/bootloader.rule
+/Users/yikunhao/Desktop/WS2425/Praktikum_IoT/Template/build/CMakeFiles/bootloader-complete.rule
+/Users/yikunhao/Desktop/WS2425/Praktikum_IoT/Template/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/yikunhao/Desktop/WS2425/Praktikum_IoT/Template/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/yikunhao/Desktop/WS2425/Praktikum_IoT/Template/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/yikunhao/Desktop/WS2425/Praktikum_IoT/Template/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/yikunhao/Desktop/WS2425/Praktikum_IoT/Template/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/yikunhao/Desktop/WS2425/Praktikum_IoT/Template/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/yikunhao/Desktop/WS2425/Praktikum_IoT/Template/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

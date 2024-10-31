@@ -1,0 +1,26 @@
+cd /path/to/Blink-basic
+source ~/esp/esp-idf/export.sh
+idf.py build
+
+ls /dev/tty.*
+
+idf.py -p /dev/tty.YOUR_PORT_NAME flash
+idf.py -p /dev/tty.YOUR_PORT_NAME monitor
+idf.py -p /dev/tty.usbserial-015E0000 flash monitor
+
+
+stop: Ctrl Command 6, ESC
+
+（cmd shift 7: comment）
+
+Ip: 131.159.85.170
+Ip at home: 172.16.88.236
+
+Ssh to rpi: ssh iot-user@131.159.85.170
+ssh iot-user@172.16.88.236
+
+#define EXAMPLE_ESP_WIFI_SSID      "BigBrother"
+#define EXAMPLE_ESP_WIFI_PASS      "19844891"
+#define SNTP_SERVER_NAME           "pool.ntp.org"
+
+#define MQTT_BROKER                "172.16.88.236" 
